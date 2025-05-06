@@ -1,4 +1,4 @@
-# README: Starbucks Offer Uplift Modeling Project
+# Starbucks Offer Uplift Modeling Project
 
 ## Project Overview
 
