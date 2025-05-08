@@ -69,3 +69,5 @@ This framework allows Starbucks to:
 
 - Fine-tune uplift thresholds based on **financial impact modeling.**
 - Extend analysis to **long-term customer value** (LTV uplift) beyond immediate transactions.
+
+  https://docs.google.com/presentation/d/1siG9VyX0N2wwqo73q4Zy5xIU4Zy-3ED_OZ1kr_OWKlE/edit?slide=id.g354a8dc0436_0_23#slide=id.g354a8dc0436_0_23
