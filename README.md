@@ -6,8 +6,7 @@ This project analyzes the effectiveness of Starbucks' marketing offers using **u
 
 The project applies **causal inference principles** to segment customers into:
 
-- **Highly Persuadable:** Customers with significant uplift (>10%)
-- **Persuadable:** Customers with moderate uplift (5–10%)
+- **Persuadable:** Customers with moderate uplift (10%+)
 - **Sure Thing / Lost Cause:** Customers unlikely to change behavior with the offer
 - **Do Not Disturb:** Customers negatively influenced by the offer (< -5% uplift)
 
